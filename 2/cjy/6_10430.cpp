@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 int main()
 {
 	int a, b, c;
@@ -13,4 +13,3 @@ int main()
 	printf("%d", (((a%c) * (b%c)) % c));
 	return 0;
 }
- */

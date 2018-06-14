@@ -2,7 +2,7 @@
 
 #define BOX_3KG 3
 #define BOX_5KG 5
-/*
+
 int main()
 {
 	int input = 0;
@@ -43,4 +43,3 @@ int main()
 
 	return 0;
 }
-*/
